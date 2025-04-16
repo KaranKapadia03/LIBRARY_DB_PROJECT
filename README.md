@@ -4,7 +4,7 @@ This project is an SQL-based **Library Management System** that includes various
 
 ---
 
-## Features
+## KEY Features
 
 - Create and manage books, members, and employees
 - Track issued and returned books
@@ -13,6 +13,17 @@ This project is an SQL-based **Library Management System** that includes various
 - Calculate rental income based on book categories
 
 ---
+##  SQL TASKS INCLUDES:
+- Creating and managing tables using constraints and foreign keys
+- Performing CRUD operations (Create, Read, Update, Delete)
+- Using advanced SQL functions for ranking, aggregation, and window functions
+- Generating reports like overdue books, total rental income, and employee performanc
+---
+## What I Learned:
+- Real-world SQL application for database management
+- Crafting optimized queries for efficient data analysis
+- Working with complex joins, subqueries, and aggregation functions
+
 ## PROJECT SCHEMA
 
 ![Final Project Schema](https://github.com/KaranKapadia03/LIBRARY_DB_PROJECT/blob/main/Final%20Schema.png)
@@ -250,6 +261,9 @@ LEFT JOIN  employees AS e
 ON ist.issued_emp_id=e.emp_id
 GROUP BY ist.issued_emp_id,e.emp_name
 ```
+
+
+
 
 
 
