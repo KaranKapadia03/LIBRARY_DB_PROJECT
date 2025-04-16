@@ -13,7 +13,7 @@ This project is an SQL-based **Library Management System** that includes various
 - Calculate rental income based on book categories
 
 ---
-##  SQL TASKS INCLUDES:
+##  SQL Tasks Includes:
 - Creating and managing tables using constraints and foreign keys
 - Performing CRUD operations (Create, Read, Update, Delete)
 - Using advanced SQL functions for ranking, aggregation, and window functions
