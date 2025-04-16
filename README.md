@@ -13,6 +13,11 @@ This project is an SQL-based **Library Management System** that includes various
 - Calculate rental income based on book categories
 
 ---
+## PROJECT SCHEMA
+
+![Final Project Schema](https://github.com/KaranKapadia03/LIBRARY_DB_PROJECT/blob/main/Final%20Schema.png)
+
+
 
 ## SQL Queries Included
 
